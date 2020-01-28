@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Pong-Pong/static/css/main.018325bb.chunk.css",
+    "main.js": "/Pong-Pong/static/js/main.99d6a0a4.chunk.js",
+    "main.js.map": "/Pong-Pong/static/js/main.99d6a0a4.chunk.js.map",
+    "runtime-main.js": "/Pong-Pong/static/js/runtime-main.5b1ca55a.js",
+    "runtime-main.js.map": "/Pong-Pong/static/js/runtime-main.5b1ca55a.js.map",
+    "static/js/2.4378ab9c.chunk.js": "/Pong-Pong/static/js/2.4378ab9c.chunk.js",
+    "static/js/2.4378ab9c.chunk.js.map": "/Pong-Pong/static/js/2.4378ab9c.chunk.js.map",
+    "index.html": "/Pong-Pong/index.html",
+    "precache-manifest.84ca3e738f9b295bb41f4130a0b99cb4.js": "/Pong-Pong/precache-manifest.84ca3e738f9b295bb41f4130a0b99cb4.js",
+    "service-worker.js": "/Pong-Pong/service-worker.js",
+    "static/css/main.018325bb.chunk.css.map": "/Pong-Pong/static/css/main.018325bb.chunk.css.map",
+    "static/js/2.4378ab9c.chunk.js.LICENSE": "/Pong-Pong/static/js/2.4378ab9c.chunk.js.LICENSE",
+    "static/media/Cheering.mp3": "/Pong-Pong/static/media/Cheering.a608dd9c.mp3",
+    "static/media/ball in play music.mp3": "/Pong-Pong/static/media/ball in play music.6465cb7f.mp3",
+    "static/media/ballImpacts.mp3": "/Pong-Pong/static/media/ballImpacts.05e8f594.mp3",
+    "static/media/ballSpeedsUp.wav": "/Pong-Pong/static/media/ballSpeedsUp.b5b3aad9.wav",
+    "static/media/final score music.wav": "/Pong-Pong/static/media/final score music.5b4e8c32.wav",
+    "static/media/sports-whistle.mp3": "/Pong-Pong/static/media/sports-whistle.04de8cf8.mp3",
+    "static/media/title screen music.mp3": "/Pong-Pong/static/media/title screen music.3b3ce360.mp3",
+    "static/media/victory music2.mp3": "/Pong-Pong/static/media/victory music2.3853c0ff.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b1ca55a.js",
+    "static/js/2.4378ab9c.chunk.js",
+    "static/css/main.018325bb.chunk.css",
+    "static/js/main.99d6a0a4.chunk.js"
+  ]
+}
