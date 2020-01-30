@@ -256,7 +256,7 @@ function gameSSL(windowSize) {
           width: `${gameCourtLeft}px`,
           height: `${windowSize.height}px`,
           color: "black",
-          fontSize: `${gameCourtWidth / 7}px`,
+          fontSize: `${gameCourtLeft / 4}px`,
           textAlign: "center",
           verticalAlign: "middle",
           lineHeight: `${gameCourtWidth}px`
@@ -276,7 +276,7 @@ function gameSSL(windowSize) {
           height: `${windowSize.height}px`,
           left: `${gameCourtLeft + gameCourtWidth + 5}px`,
           color: "black",
-          fontSize: `${gameCourtWidth / 7}px`,
+          fontSize: `${gameCourtLeft / 4}px`,
           textAlign: "center",
           verticalAlign: "middle",
           lineHeight: `${gameCourtWidth}px`
